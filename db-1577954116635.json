@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "description": "typicode"
+    },
+    {
+      "id": 1,
+      "title": "json-server2",
+      "description": "typicode2"
+    }
+  ]
+}
